@@ -1,4 +1,4 @@
-# End-to-end-Medical-Chatbot-Generative-AI
+# Record-Management-Chatbot-Generative-AI
 
 
 # How to run?
